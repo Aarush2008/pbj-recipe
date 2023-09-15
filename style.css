@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(112, 53, 14);
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: rgb(141, 61, 8);
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: rgb(99, 47, 4);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
